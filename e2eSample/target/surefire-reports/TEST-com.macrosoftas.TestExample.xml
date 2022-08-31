@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.macrosoftas.TestExample" time="78.074" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.macrosoftas.TestExample" time="281.254" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="FR"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.9\bin"/>
-    <property name="sun.java.command" value="C:\Users\SOULEY~1\AppData\Local\Temp\surefire13503551601980897217\surefirebooter9622218997766175463.jar C:\Users\SOULEYSANOGO\AppData\Local\Temp\surefire13503551601980897217 2021-08-26T10-53-18_727-jvmRun1 surefire2610896026368676551tmp surefire_09758135551382948737tmp"/>
+    <property name="sun.java.command" value="C:\Users\SOULEY~1\AppData\Local\Temp\surefire10434897704122196316\surefirebooter3790986714724007935.jar C:\Users\SOULEYSANOGO\AppData\Local\Temp\surefire10434897704122196316 2021-08-26T14-22-24_978-jvmRun1 surefire14304354964291104534tmp surefire_03058235879815039738tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\code\TESTS\playwright-e2e-testing\e2eSample\target\test-classes;D:\code\TESTS\playwright-e2e-testing\e2eSample\target\classes;C:\Users\SOULEYSANOGO\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\SOULEYSANOGO\.m2\repository\com\microsoft\playwright\playwright\1.9.0-alpha-0\playwright-1.9.0-alpha-0.jar;C:\Users\SOULEYSANOGO\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\SOULEYSANOGO\.m2\repository\org\java-websocket\Java-WebSocket\1.5.1\Java-WebSocket-1.5.1.jar;C:\Users\SOULEYSANOGO\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\SOULEYSANOGO\.m2\repository\com\microsoft\playwright\driver\1.9.0-alpha-0\driver-1.9.0-alpha-0.jar;C:\Users\SOULEYSANOGO\.m2\repository\com\microsoft\playwright\driver-bundle\1.9.0-alpha-0\driver-bundle-1.9.0-alpha-0.jar;C:\Users\SOULEYSANOGO\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.5.2\junit-jupiter-engine-5.5.2.jar;C:\Users\SOULEYSANOGO\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\SOULEYSANOGO\.m2\repository\org\junit\platform\junit-platform-engine\1.5.2\junit-platform-engine-1.5.2.jar;C:\Users\SOULEYSANOGO\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\SOULEYSANOGO\.m2\repository\org\junit\platform\junit-platform-commons\1.5.2\junit-platform-commons-1.5.2.jar;C:\Users\SOULEYSANOGO\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.5.2\junit-jupiter-api-5.5.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\SOULEY~1\AppData\Local\Temp\surefire13503551601980897217\surefirebooter9622218997766175463.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\SOULEY~1\AppData\Local\Temp\surefire10434897704122196316\surefirebooter3790986714724007935.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.9+7-LTS"/>
@@ -60,7 +60,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="shouldCheckTheBox" classname="com.macrosoftas.TestExample" time="4.133"/>
-  <testcase name="shouldClickButton" classname="com.macrosoftas.TestExample" time="0.344"/>
-  <testcase name="shouldSearchWiki" classname="com.macrosoftas.TestExample" time="10.137"/>
+  <testcase name="shouldCheckTheBox" classname="com.macrosoftas.TestExample" time="0.344"/>
+  <testcase name="shouldClickButton" classname="com.macrosoftas.TestExample" time="0.322"/>
+  <testcase name="shouldSearchWiki" classname="com.macrosoftas.TestExample" time="6.85"/>
 </testsuite>
